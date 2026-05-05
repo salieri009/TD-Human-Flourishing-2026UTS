@@ -4,6 +4,10 @@
 **Due:** May 8, 2026  
 **Audience:** Microsoft Education Team
 
+## About
+
+This repo contains the group materials for a Microsoft Education presentation on how generative AI affects student thinking, plus the briefing document and research links used in the submission.
+
 ## Project Files
 
 - `Presentation/`: Canva slide export. PDF files stay local and are ignored by git.
